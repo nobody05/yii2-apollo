@@ -5,7 +5,7 @@
 * install 
 
 ```bash
-composer require wby/yii2-apollo
+composer require phpno/yii2-apollo
 ```    
 * change .env file
 
