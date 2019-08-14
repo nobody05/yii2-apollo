@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpOn\ApolloYii;
+namespace PhpOne\ApolloYii;
 
 class ConfigReader
 {

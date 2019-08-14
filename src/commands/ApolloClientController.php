@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpOn\ApolloYii\commands;
+namespace PhpOne\ApolloYii\commands;
 
 use Org\Multilinguals\Apollo\Client\ApolloClient;
 use yii\console\Controller;

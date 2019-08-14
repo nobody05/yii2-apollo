@@ -1,5 +1,5 @@
 {
-  "name": "phpon/yii2-apollo",
+  "name": "phpone/yii2-apollo",
   "description": "yii2-apollo client",
   "type": "yii2-extension",
   "license": "MIT",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PhpOn\\ApolloYii\\": "src"
+      "PhpOne\\ApolloYii\\": "src"
     }
   }
 }

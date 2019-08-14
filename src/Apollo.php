@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpOn\ApolloYii;
+namespace PhpOne\ApolloYii;
 
 class Apollo
 {
@@ -24,7 +24,7 @@ class Apollo
     private static function setConfigReader()
     {
         \Yii::$container->setSingleton('configreader', [
-            'class' => 'PhpOn\ApolloYii\ConfigReader',
+            'class' => 'PhpOne\ApolloYii\ConfigReader',
             'dir' => '@apolloPath'
         ]);
     }

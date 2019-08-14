@@ -5,7 +5,7 @@
 * install 
 
 ```bash
-composer require phpon/yii2-apollo
+composer require phpone/yii2-apollo
 ```    
 * change .env file
 

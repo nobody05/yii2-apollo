@@ -2,7 +2,7 @@
 
 
 return [
-    'class' => 'PhpOn/ApolloYii/commands/ApolloClientController',
+    'class' => 'PhpOne/ApolloYii/commands/ApolloClientController',
     'namespaces' => explode(',', getenv('APOLLO_NAMESPACES', 'application')),
     'cluster' => getenv('APOLLO_CLUSTER', 'default'),
     'save_dir' => "@app/storage/apollo",
