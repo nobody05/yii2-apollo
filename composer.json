@@ -1,0 +1,22 @@
+{
+  "name": "phpno/yii2-apollo",
+  "description": "yii2-apollo client",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gaozhi",
+      "email": ""
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "yiisoft/yii2": "^2.0",
+    "lackhurt/apollo-client": "^0.1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PhpOn\\ApolloYii\\": "src"
+    }
+  }
+}
